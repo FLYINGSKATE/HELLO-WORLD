@@ -2,3 +2,4 @@
 fIRST ONE
 :SCHOOL:
 :hotel:
+:school:
